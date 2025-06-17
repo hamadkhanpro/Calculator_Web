@@ -25,8 +25,6 @@ Calculator Key Points:
 Your Sincerely: We would happy to discuss this proposal further and answer any question you may have.
 Thank you for considering our proposal and we look forward to the opportunity to collaborate on this exciting project.
 
-Best Regards
-Hamad Khan
-hamadkhan2553@gmail.com
+Hamad Khan: hamadkhan2553@gmail.com
 
 ![Image](https://github.com/user-attachments/assets/1f560ef4-0e4f-4c11-8570-f7fc1f9a941f)
