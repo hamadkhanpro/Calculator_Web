@@ -1,6 +1,6 @@
 # Calculator Web
 # WinRar / ZIP File Password: hamadkhan
-Calculator Web (When i was studying bscs (bachelor of science in computer science) and was in my 4th semester, there was a 4th semester project that i completed and thsi was the subject of web design & development and i used HTML, CSS, JavaScript languages coding in that project).
+Calculator Web (When i was studying bscs bachelor of science in computer science) and was in my 4th semester, there was a 4th semester project that i completed and thsi was the subject of web design & development and i used HTML, CSS, JavaScript languages coding in that project.
 
 Objective:
 The objective of the Calculator Web project is to design and develop a user-friendly, responsive web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) efficiently and accurately. The calculator should be accessible on both desktop and mobile devices, providing a seamless experience for users who need quick and reliable mathematical calculations online.
